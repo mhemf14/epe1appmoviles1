@@ -14,15 +14,17 @@ body {
   padding: 20px;
   background-color: #222;
   text-align: center;
-  height: 100vh;
-  border: 1px solid white;
+     height: 74vh;
+  border: 28px solid white;
   /* Agrega un borde blanco */
   border-radius: 10px;
   /* Agrega esquinas redondeadas */
   box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
   /* Agrega sombra */
-  width: 400px;
+  width: 390px;
   /* Ancho fijo en píxeles */
+ 
+
 }
 
 #summaryWindow {
